@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|c:\\users\\aluno\\downloads\\lopal_pedro-paulo\\atividade03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|solutionrelative:atividade03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|c:\\users\\aluno\\downloads\\lopal_pedro-paulo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|c:\\users\\aluno\\downloads\\lopal_pedro-paulo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|c:\\users\\aluno\\downloads\\lopal_pedro-paulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|c:\\users\\aluno\\downloads\\lopal_pedro-paulo\\atividade02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|solutionrelative:atividade02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|c:\\users\\aluno\\downloads\\lopal_pedro-paulo\\atividadade01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|solutionrelative:atividadade01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividade03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E0D904-6F01-4ED1-923D-9ADDBE984C89}|LOPAL_pedro-paulo.csproj|solutionrelative:atividade03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:29:09.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MENU.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\MENU.cs",
+              "RelativeDocumentMoniker": "MENU.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\MENU.cs",
+              "RelativeToolTip": "MENU.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA3wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:26:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "atividade02.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividade02.cs",
+              "RelativeDocumentMoniker": "atividade02.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividade02.cs [Design]",
+              "RelativeToolTip": "atividade02.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:25:25.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "atividadade01.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividadade01.cs",
+              "RelativeDocumentMoniker": "atividadade01.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividadade01.cs [Design]",
+              "RelativeToolTip": "atividadade01.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:25:00.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MENU.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\MENU.cs",
+              "RelativeDocumentMoniker": "MENU.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\MENU.cs [Design]",
+              "RelativeToolTip": "MENU.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:20:55.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "atividade03.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividade03.cs",
+              "RelativeDocumentMoniker": "atividade03.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividade03.cs [Design]",
+              "RelativeToolTip": "atividade03.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:53:33.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "atividade03.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividade03.cs",
+              "RelativeDocumentMoniker": "atividade03.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\LOPAL_pedro-paulo\\atividade03.cs",
+              "RelativeToolTip": "atividade03.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:25:40.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

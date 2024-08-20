@@ -1,0 +1,37 @@
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.exe.config
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.exe
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.pdb
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.Form1.resources
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.atividade02.resources
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.Properties.Resources.resources
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.exe
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.pdb
+C:\Users\Aluno\source\repos\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.atividade03.resources
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.AssemblyReference.cache
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.Form1.resources
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.atividade02.resources
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.atividade03.resources
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.Properties.Resources.resources
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.GenerateResource.cache
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.CoreCompileInputs.cache
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.exe
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.pdb
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.exe.config
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.exe
+D:\PAUlin o loco e PEDRINfeliz\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.pdb
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.exe.config
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.exe
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\bin\Debug\LOPAL_pedro-paulo.pdb
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.Form1.resources
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.atividade02.resources
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.atividade03.resources
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.MENU.resources
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro_paulo.Properties.Resources.resources
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.exe
+C:\Users\Aluno\Downloads\LOPAL_pedro-paulo\obj\Debug\LOPAL_pedro-paulo.pdb
